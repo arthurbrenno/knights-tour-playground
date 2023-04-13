@@ -1,0 +1,4 @@
+com\brc\knights_tour\App.class
+com\brc\knights_tour\resources\Knight.class
+com\brc\knights_tour\resources\ChessPiece.class
+com\brc\knights_tour\resources\ChessBoard.class
