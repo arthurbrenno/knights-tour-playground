@@ -6,7 +6,7 @@ import com.brc.knights_tour.resources.*;
 
 public class App {
     /*Controls */
-    private static final int BOARD_SIZE = 8; //You should not change this.
+    private static final int BOARD_SIZE = 8; 
     private static final int START_KNIGHT_ROW = 0;
     private static final int START_KNIGHT_COL = 0;
     private static final int NUMBER_OF_MOVEMENTS = 64;
